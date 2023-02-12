@@ -194,3 +194,5 @@ tree.inOrderTraverse(printNode);
 
 console.log(tree.search(11)?'found':'not found');
 console.log(tree.search(100)?'found':'not found');
+
+module.exports = BinarySearchTree
